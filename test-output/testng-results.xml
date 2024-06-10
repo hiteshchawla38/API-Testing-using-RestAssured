@@ -2,23 +2,27 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-10T19:52:57 IST" name="BoardSuite" finished-at="2024-06-10T19:52:59 IST" duration-ms="2803">
+  <suite started-at="2024-06-10T21:37:25 IST" name="Default suite" finished-at="2024-06-10T21:37:30 IST" duration-ms="4816">
     <groups>
       <group name="Sample testcases">
-        <method signature="BoardTest.testCreateBoard()[pri:1, instance:Test.BoardTest@202b0582]" name="testCreateBoard" class="Test.BoardTest"/>
+        <method signature="BoardTest.testCreateBoard()[pri:1, instance:Test.BoardTest@248e319b]" name="testCreateBoard" class="Test.BoardTest"/>
       </group> <!-- Sample testcases -->
     </groups>
-    <test started-at="2024-06-10T19:52:57 IST" name="BoardTest" finished-at="2024-06-10T19:52:59 IST" duration-ms="2803">
+    <test started-at="2024-06-10T21:37:25 IST" name="Default test" finished-at="2024-06-10T21:37:30 IST" duration-ms="4816">
       <class name="Test.BoardTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Test.BoardTest@202b0582]" started-at="2024-06-10T19:52:57 IST" name="setup" finished-at="2024-06-10T19:52:57 IST" duration-ms="488" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.BoardTest@248e319b]" started-at="2024-06-10T21:37:25 IST" name="setup" finished-at="2024-06-10T21:37:26 IST" duration-ms="526" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCreateBoard()[pri:1, instance:Test.BoardTest@202b0582]" started-at="2024-06-10T19:52:57 IST" name="testCreateBoard" finished-at="2024-06-10T19:52:59 IST" duration-ms="2048" status="PASS">
+        <test-method signature="testCreateBoard()[pri:1, instance:Test.BoardTest@248e319b]" started-at="2024-06-10T21:37:26 IST" name="testCreateBoard" finished-at="2024-06-10T21:37:28 IST" duration-ms="1978" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateBoard -->
+        <test-method is-config="true" signature="testDeleteBoard()[pri:0, instance:Test.BoardTest@248e319b]" started-at="2024-06-10T21:37:28 IST" name="testDeleteBoard" finished-at="2024-06-10T21:37:30 IST" duration-ms="2268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteBoard -->
       </class> <!-- Test.BoardTest -->
-    </test> <!-- BoardTest -->
-  </suite> <!-- BoardSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -582,3 +582,18 @@
 19:52:59:947 [main] INFO  Test.BoardTest - Response time is :1
 19:52:59:947 [main] INFO  Test.BoardTest - Board created
 19:53:12:466 [main] INFO  Test.BoardTest - *********** Creating board **************
+21:20:31:646 [main] INFO  Test.BoardTest - *********** Creating board **************
+21:20:33:634 [main] INFO  Test.BoardTest - Status code is :200
+21:20:33:634 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+21:20:33:638 [main] INFO  Test.BoardTest - Response time is :1
+21:20:33:638 [main] INFO  Test.BoardTest - Board created
+21:37:26:472 [main] INFO  Test.BoardTest - *********** Creating board **************
+21:37:28:437 [main] INFO  Test.BoardTest - Status code is :200
+21:37:28:438 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+21:37:28:441 [main] INFO  Test.BoardTest - Response time is :1
+21:37:28:441 [main] INFO  Test.BoardTest - Board created
+21:37:28:448 [main] INFO  Test.BoardTest - *********** Deleting board **************
+21:37:30:714 [main] INFO  Test.BoardTest - Status code is :200
+21:37:30:715 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+21:37:30:715 [main] INFO  Test.BoardTest - Response time is :2
+21:37:30:716 [main] INFO  Test.BoardTest - Board deleted

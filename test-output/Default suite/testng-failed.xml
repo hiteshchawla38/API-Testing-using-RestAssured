@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test.LabelTest">
+      <class name="Utilities.BasicUtilities">
         <methods>
-          <include name="testDeleteLabel"/>
-          <include name="setup"/>
-          <include name="testUpdateLabelName"/>
+          <include name="DecodeString"/>
         </methods>
-      </class> <!-- Test.LabelTest -->
+      </class> <!-- Utilities.BasicUtilities -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
