@@ -1,0 +1,584 @@
+12:39:05:734 [main] INFO  Test.BoardTest - *********** Creating board **************
+12:39:08:014 [main] INFO  Test.BoardTest - *********** Board Created **************
+12:39:08:033 [main] INFO  Test.BoardTest - *********** Reading board **************
+12:39:08:390 [main] INFO  Test.BoardTest - *********** Readed Board **************
+12:39:08:766 [main] INFO  Test.BoardTest - *********** Deleting board **************
+22:39:22:064 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:39:24:414 [main] INFO  Test.BoardTest - *********** Status Code verify **************
+22:39:43:461 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:39:45:527 [main] INFO  Test.BoardTest - *********** Status Code verify **************
+22:39:45:528 [main] INFO  Test.BoardTest - *********** Status Line verify **************
+22:39:45:528 [main] INFO  Test.BoardTest - *********** Board Name verified **************
+22:42:41:999 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:42:44:174 [main] INFO  Test.BoardTest - *********** Status Code verify **************
+22:42:44:174 [main] INFO  Test.BoardTest - *********** Status Line verify **************
+22:42:44:174 [main] INFO  Test.BoardTest - *********** Permission Level verified **************
+22:44:58:742 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:48:15:554 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:50:07:889 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:51:06:660 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:51:28:137 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:54:13:187 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:54:35:105 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:55:11:549 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:56:36:867 [main] INFO  Test.BoardTest - *********** Reading board **************
+22:59:16:148 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:14:34:632 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:15:17:915 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:15:55:415 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:17:10:373 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:17:12:562 [main] INFO  Test.BoardTest - *********** Status Code verify **************
+23:17:12:563 [main] INFO  Test.BoardTest - *********** Status Line verify **************
+23:17:12:563 [main] INFO  Test.BoardTest - *********** Permission Level verified **************
+23:44:41:514 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:44:43:780 [main] INFO  Test.BoardTest - *********** Status Code verify **************
+23:44:43:781 [main] INFO  Test.BoardTest - *********** Status Line verify **************
+23:44:43:781 [main] INFO  Test.BoardTest - *********** Calender view verified **************
+00:11:51:373 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:11:53:437 [main] INFO  Test.BoardTest - Status code is :400
+00:11:53:437 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+00:11:53:442 [main] INFO  Test.BoardTest - Response time is :0
+00:20:14:562 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:20:45:386 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:20:46:929 [main] INFO  Test.BoardTest - Status code is :401
+00:20:46:929 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+00:20:46:933 [main] INFO  Test.BoardTest - Response time is :0
+00:34:19:908 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:34:21:564 [main] INFO  Test.BoardTest - Status code is :404
+00:34:21:564 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+00:34:21:567 [main] INFO  Test.BoardTest - Response time is :0
+00:34:21:567 [main] INFO  Test.BoardTest - Cannot GET /1/bods/AWfFTa2A?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+00:50:40:647 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:50:42:585 [main] INFO  Test.BoardTest - Status code is :400
+00:50:42:585 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+00:50:42:589 [main] INFO  Test.BoardTest - Response time is :0
+00:50:42:589 [main] INFO  Test.BoardTest - Testcase passed
+00:50:42:610 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:50:42:948 [main] INFO  Test.BoardTest - Status code is :404
+00:50:42:948 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+00:50:42:948 [main] INFO  Test.BoardTest - Response time is :0
+00:50:42:948 [main] INFO  Test.BoardTest - Cannot GET /1/bods/AWfFTa2A?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+00:50:42:951 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:50:43:264 [main] INFO  Test.BoardTest - Status code is :401
+00:50:43:264 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+00:50:43:265 [main] INFO  Test.BoardTest - Response time is :0
+00:50:43:268 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:50:43:656 [main] INFO  Test.BoardTest - *********** Reading board **************
+00:50:44:035 [main] INFO  Test.BoardTest - Status code is :200
+00:50:44:036 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+00:50:44:036 [main] INFO  Test.BoardTest - Response time is :0
+00:50:44:039 [main] INFO  Test.BoardTest - *********** Reading board **************
+00:50:44:384 [main] INFO  Test.BoardTest - Status code is :200
+00:50:44:385 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+00:50:44:385 [main] INFO  Test.BoardTest - Response time is :0
+00:50:44:385 [main] INFO  Test.BoardTest - Board Name verified
+00:50:44:387 [main] INFO  Test.BoardTest - *********** Reading board **************
+00:50:44:728 [main] INFO  Test.BoardTest - Status code is :200
+00:50:44:728 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+00:50:44:728 [main] INFO  Test.BoardTest - Response time is :0
+00:50:44:728 [main] INFO  Test.BoardTest - Permission Level verified
+00:50:44:730 [main] INFO  Test.BoardTest - *********** Reading board **************
+00:50:45:122 [main] INFO  Test.BoardTest - Status code is :200
+00:50:45:122 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+00:50:45:122 [main] INFO  Test.BoardTest - Response time is :0
+00:50:45:123 [main] INFO  Test.BoardTest - Calender view verified
+00:50:45:126 [main] INFO  Test.BoardTest - *********** Reading board **************
+00:50:45:499 [main] INFO  Test.BoardTest - Status code is :200
+00:50:45:499 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+00:50:45:499 [main] INFO  Test.BoardTest - Response time is :0
+00:50:45:499 [main] INFO  Test.BoardTest - Background color verified
+00:51:51:377 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:55:35:457 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:55:37:352 [main] INFO  Test.BoardTest - Status code is :400
+00:55:37:352 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+00:55:37:356 [main] INFO  Test.BoardTest - Response time is :0
+00:55:37:356 [main] INFO  Test.BoardTest - Testcase passed
+00:55:37:376 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:55:37:721 [main] INFO  Test.BoardTest - Status code is :404
+00:55:37:721 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+00:55:37:721 [main] INFO  Test.BoardTest - Response time is :0
+00:55:37:722 [main] INFO  Test.BoardTest - Cannot GET /1/bods/AWfFTa2A?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+00:55:37:729 [main] INFO  Test.BoardTest - *********** Creating board **************
+00:55:38:051 [main] INFO  Test.BoardTest - Status code is :401
+00:55:38:052 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+00:55:38:052 [main] INFO  Test.BoardTest - Response time is :0
+15:02:45:281 [main] INFO  Test.LabelTest - *********** Creating Label **************
+15:02:47:464 [main] INFO  Test.LabelTest - Status code is :200
+15:02:47:465 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+15:02:47:469 [main] INFO  Test.LabelTest - Response time is :1
+15:02:47:469 [main] INFO  Test.LabelTest - Label created
+15:02:47:473 [main] INFO  Test.LabelTest - *********** Deleting label **************
+15:02:48:028 [main] INFO  Test.LabelTest - Status code is :200
+15:02:48:028 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+15:02:48:029 [main] INFO  Test.LabelTest - Response time is :0
+15:02:48:029 [main] INFO  Test.LabelTest - Label deleted
+20:22:05:439 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:22:07:246 [main] INFO  Test.BoardTest - Status code is :200
+20:22:07:247 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:22:07:250 [main] INFO  Test.BoardTest - Response time is :0
+20:27:41:941 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:27:44:066 [main] INFO  Test.BoardTest - Status code is :400
+20:27:44:066 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+20:27:44:070 [main] INFO  Test.BoardTest - Response time is :0
+20:27:44:071 [main] INFO  Test.BoardTest - Testcase passed
+20:27:44:086 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:27:44:820 [main] INFO  Test.BoardTest - Status code is :404
+20:27:44:820 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+20:27:44:821 [main] INFO  Test.BoardTest - Response time is :0
+20:27:44:821 [main] INFO  Test.BoardTest - Cannot GET /1/bods/AWfFTa2A?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+20:27:44:823 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:27:45:145 [main] INFO  Test.BoardTest - Status code is :401
+20:27:45:145 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+20:27:45:146 [main] INFO  Test.BoardTest - Response time is :0
+20:27:45:150 [main] INFO  Test.BoardTest - *********** Deleting board **************
+20:27:46:608 [main] INFO  Test.BoardTest - Status code is :200
+20:27:46:609 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:27:46:609 [main] INFO  Test.BoardTest - Response time is :1
+20:27:46:609 [main] INFO  Test.BoardTest - Board deleted
+20:27:46:612 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:27:47:198 [main] INFO  Test.BoardTest - Status code is :200
+20:27:47:198 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:27:47:198 [main] INFO  Test.BoardTest - Response time is :0
+20:27:47:198 [main] INFO  Test.BoardTest - Board created
+20:27:47:200 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:27:48:095 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:27:48:526 [main] INFO  Test.BoardTest - Status code is :200
+20:27:48:526 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:27:48:526 [main] INFO  Test.BoardTest - Response time is :0
+20:27:48:531 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:27:48:916 [main] INFO  Test.BoardTest - Status code is :200
+20:27:48:917 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:27:48:917 [main] INFO  Test.BoardTest - Response time is :0
+20:27:48:917 [main] INFO  Test.BoardTest - Permission Level verified
+20:27:48:920 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:27:49:359 [main] INFO  Test.BoardTest - Status code is :200
+20:27:49:359 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:27:49:360 [main] INFO  Test.BoardTest - Response time is :0
+20:27:49:360 [main] INFO  Test.BoardTest - Calender view verified
+20:27:49:362 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:27:49:735 [main] INFO  Test.BoardTest - Status code is :200
+20:27:49:735 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:27:49:736 [main] INFO  Test.BoardTest - Response time is :0
+20:27:49:736 [main] INFO  Test.BoardTest - Background color verified
+20:38:01:192 [main] INFO  Test.BoardTest - *********** Deleting board **************
+20:38:04:230 [main] INFO  Test.BoardTest - Status code is :200
+20:38:04:230 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:38:04:235 [main] INFO  Test.BoardTest - Response time is :2
+20:38:04:235 [main] INFO  Test.BoardTest - Board deleted
+20:52:48:621 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:52:50:650 [main] INFO  Test.BoardTest - Status code is :400
+20:52:50:651 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+20:52:50:658 [main] INFO  Test.BoardTest - Response time is :0
+20:52:50:658 [main] INFO  Test.BoardTest - Testcase passed
+20:52:50:679 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:52:51:016 [main] INFO  Test.BoardTest - Status code is :404
+20:52:51:016 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+20:52:51:017 [main] INFO  Test.BoardTest - Response time is :0
+20:52:51:017 [main] INFO  Test.BoardTest - Cannot GET /1/bods/kUZqlE0x?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+20:52:51:024 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:52:51:387 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:52:51:956 [main] INFO  Test.BoardTest - Status code is :200
+20:52:51:956 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:52:51:957 [main] INFO  Test.BoardTest - Response time is :0
+20:52:51:957 [main] INFO  Test.BoardTest - Board created
+20:52:51:959 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:52:52:302 [main] INFO  Test.BoardTest - Status code is :200
+20:52:52:302 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:52:52:303 [main] INFO  Test.BoardTest - Response time is :0
+20:52:52:705 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:52:53:069 [main] INFO  Test.BoardTest - Status code is :200
+20:52:53:069 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:52:53:069 [main] INFO  Test.BoardTest - Response time is :0
+20:52:53:069 [main] INFO  Test.BoardTest - Board Name verified
+20:52:53:073 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:52:53:439 [main] INFO  Test.BoardTest - Status code is :200
+20:52:53:440 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:52:53:440 [main] INFO  Test.BoardTest - Response time is :0
+20:52:53:440 [main] INFO  Test.BoardTest - Permission Level verified
+20:52:53:442 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:52:53:842 [main] INFO  Test.BoardTest - Status code is :200
+20:52:53:843 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:52:53:843 [main] INFO  Test.BoardTest - Response time is :0
+20:52:53:843 [main] INFO  Test.BoardTest - Calender view verified
+20:52:53:846 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:52:54:208 [main] INFO  Test.BoardTest - Status code is :200
+20:52:54:208 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:52:54:209 [main] INFO  Test.BoardTest - Response time is :0
+20:52:54:209 [main] INFO  Test.BoardTest - Background color verified
+20:54:10:975 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:54:13:086 [main] INFO  Test.BoardTest - Status code is :400
+20:54:13:086 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+20:54:13:090 [main] INFO  Test.BoardTest - Response time is :0
+20:54:13:090 [main] INFO  Test.BoardTest - Testcase passed
+20:54:13:109 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:54:13:461 [main] INFO  Test.BoardTest - Status code is :404
+20:54:13:462 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+20:54:13:462 [main] INFO  Test.BoardTest - Response time is :0
+20:54:13:462 [main] INFO  Test.BoardTest - Cannot GET /1/bods/kUZqlE0x?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+20:54:13:471 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:54:13:797 [main] INFO  Test.BoardTest - Status code is :401
+20:54:13:798 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+20:54:13:798 [main] INFO  Test.BoardTest - Response time is :0
+20:54:13:803 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:54:14:194 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:54:14:553 [main] INFO  Test.BoardTest - Status code is :200
+20:54:14:553 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:54:14:553 [main] INFO  Test.BoardTest - Response time is :0
+20:54:14:955 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:54:15:323 [main] INFO  Test.BoardTest - Status code is :200
+20:54:15:323 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:54:15:323 [main] INFO  Test.BoardTest - Response time is :0
+20:54:15:323 [main] INFO  Test.BoardTest - Board Name verified
+20:54:15:325 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:54:15:683 [main] INFO  Test.BoardTest - Status code is :200
+20:54:15:683 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:54:15:683 [main] INFO  Test.BoardTest - Response time is :0
+20:54:15:683 [main] INFO  Test.BoardTest - Permission Level verified
+20:54:15:685 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:54:16:098 [main] INFO  Test.BoardTest - Status code is :200
+20:54:16:098 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:54:16:099 [main] INFO  Test.BoardTest - Response time is :0
+20:54:16:099 [main] INFO  Test.BoardTest - Calender view verified
+20:54:16:102 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:54:16:465 [main] INFO  Test.BoardTest - Status code is :200
+20:54:16:465 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:54:16:466 [main] INFO  Test.BoardTest - Response time is :0
+20:54:16:466 [main] INFO  Test.BoardTest - Background color verified
+20:54:52:861 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:57:34:595 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:57:36:734 [main] INFO  Test.BoardTest - Status code is :400
+20:57:36:735 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+20:57:36:740 [main] INFO  Test.BoardTest - Response time is :0
+20:57:36:740 [main] INFO  Test.BoardTest - Testcase passed
+20:57:36:767 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:57:37:113 [main] INFO  Test.BoardTest - Status code is :404
+20:57:37:113 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+20:57:37:114 [main] INFO  Test.BoardTest - Response time is :0
+20:57:37:114 [main] INFO  Test.BoardTest - Cannot GET /1/bods/kUZqlE0x?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+20:57:37:122 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:57:37:443 [main] INFO  Test.BoardTest - Status code is :401
+20:57:37:443 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+20:57:37:443 [main] INFO  Test.BoardTest - Response time is :0
+20:57:37:447 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:57:38:030 [main] INFO  Test.BoardTest - Status code is :200
+20:57:38:030 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:57:38:030 [main] INFO  Test.BoardTest - Response time is :0
+20:57:38:030 [main] INFO  Test.BoardTest - Board created
+20:57:38:032 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:57:38:721 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:57:39:451 [main] INFO  Test.BoardTest - Status code is :200
+20:57:39:452 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:57:39:452 [main] INFO  Test.BoardTest - Response time is :0
+20:57:39:453 [main] INFO  Test.BoardTest - Board Name verified
+20:57:39:456 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:57:39:807 [main] INFO  Test.BoardTest - Status code is :200
+20:57:39:807 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:57:39:808 [main] INFO  Test.BoardTest - Response time is :0
+20:57:39:808 [main] INFO  Test.BoardTest - Permission Level verified
+20:57:39:809 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:57:40:201 [main] INFO  Test.BoardTest - Status code is :200
+20:57:40:202 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:57:40:202 [main] INFO  Test.BoardTest - Response time is :0
+20:57:40:202 [main] INFO  Test.BoardTest - Calender view verified
+20:57:40:205 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:57:40:564 [main] INFO  Test.BoardTest - Status code is :200
+20:57:40:564 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:57:40:564 [main] INFO  Test.BoardTest - Response time is :0
+20:57:40:564 [main] INFO  Test.BoardTest - Background color verified
+20:58:47:875 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:58:49:874 [main] INFO  Test.BoardTest - Status code is :400
+20:58:49:875 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+20:58:49:878 [main] INFO  Test.BoardTest - Response time is :0
+20:58:49:878 [main] INFO  Test.BoardTest - Testcase passed
+20:58:49:896 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:58:50:223 [main] INFO  Test.BoardTest - Status code is :404
+20:58:50:223 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+20:58:50:223 [main] INFO  Test.BoardTest - Response time is :0
+20:58:50:224 [main] INFO  Test.BoardTest - Cannot GET /1/bods/HeK6Sj1t?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+20:58:50:231 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:58:50:548 [main] INFO  Test.BoardTest - Status code is :401
+20:58:50:548 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+20:58:50:548 [main] INFO  Test.BoardTest - Response time is :0
+20:58:50:551 [main] INFO  Test.BoardTest - *********** Creating board **************
+20:58:51:290 [main] INFO  Test.BoardTest - Status code is :200
+20:58:51:290 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:58:51:290 [main] INFO  Test.BoardTest - Response time is :0
+20:58:51:290 [main] INFO  Test.BoardTest - Board created
+20:58:51:293 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:58:51:646 [main] INFO  Test.BoardTest - Status code is :200
+20:58:51:646 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:58:51:646 [main] INFO  Test.BoardTest - Response time is :0
+20:58:52:052 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:58:52:422 [main] INFO  Test.BoardTest - Status code is :200
+20:58:52:423 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:58:52:423 [main] INFO  Test.BoardTest - Response time is :0
+20:58:52:423 [main] INFO  Test.BoardTest - Board Name verified
+20:58:52:425 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:58:52:788 [main] INFO  Test.BoardTest - Status code is :200
+20:58:52:788 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:58:52:788 [main] INFO  Test.BoardTest - Response time is :0
+20:58:52:788 [main] INFO  Test.BoardTest - Permission Level verified
+20:58:52:790 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:58:53:185 [main] INFO  Test.BoardTest - Status code is :200
+20:58:53:185 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:58:53:186 [main] INFO  Test.BoardTest - Response time is :0
+20:58:53:186 [main] INFO  Test.BoardTest - Calender view verified
+20:58:53:188 [main] INFO  Test.BoardTest - *********** Reading board **************
+20:58:53:540 [main] INFO  Test.BoardTest - Status code is :200
+20:58:53:540 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+20:58:53:540 [main] INFO  Test.BoardTest - Response time is :0
+20:58:53:540 [main] INFO  Test.BoardTest - Background color verified
+21:11:07:160 [main] INFO  Test.LabelTest - *********** Creating Label **************
+21:11:08:775 [main] INFO  Test.LabelTest - *********** Reading Label **************
+21:11:09:248 [main] INFO  Test.LabelTest - *********** Reading label **************
+21:11:09:577 [main] INFO  Test.LabelTest - *********** Reading label **************
+21:52:22:635 [main] INFO  Test.LabelTest - *********** Creating Label **************
+21:53:07:246 [main] INFO  Test.LabelTest - *********** Creating Label **************
+21:53:08:799 [main] INFO  Test.LabelTest - *********** Reading Label **************
+21:53:09:228 [main] INFO  Test.LabelTest - *********** Reading label **************
+21:53:09:560 [main] INFO  Test.LabelTest - *********** Reading label **************
+21:54:57:437 [main] INFO  Test.LabelTest - *********** Creating Label **************
+21:54:59:941 [main] INFO  Test.LabelTest - Status code is :200
+21:54:59:942 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+21:54:59:945 [main] INFO  Test.LabelTest - Response time is :1
+21:54:59:945 [main] INFO  Test.LabelTest - Label created
+21:54:59:959 [main] INFO  Test.LabelTest - *********** Reading Label **************
+21:55:00:409 [main] INFO  Test.LabelTest - *********** Reading label **************
+21:55:00:761 [main] INFO  Test.LabelTest - *********** Reading label **************
+21:59:18:318 [main] INFO  Test.LabelTest - *********** Creating Label **************
+21:59:20:003 [main] INFO  Test.LabelTest - Status code is :200
+21:59:20:004 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+21:59:20:007 [main] INFO  Test.LabelTest - Response time is :0
+21:59:20:008 [main] INFO  Test.LabelTest - Label created
+22:01:58:127 [main] INFO  Test.LabelTest - *********** Reading Label **************
+22:01:59:731 [main] INFO  Test.LabelTest - Status code is :200
+22:01:59:731 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:01:59:735 [main] INFO  Test.LabelTest - Response time is :0
+22:02:13:929 [main] INFO  Test.LabelTest - *********** Creating Label **************
+22:02:15:597 [main] INFO  Test.LabelTest - Status code is :200
+22:02:15:597 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:02:15:602 [main] INFO  Test.LabelTest - Response time is :0
+22:02:15:602 [main] INFO  Test.LabelTest - Label created
+22:02:15:614 [main] INFO  Test.LabelTest - *********** Reading Label **************
+22:02:16:003 [main] INFO  Test.LabelTest - Status code is :200
+22:02:16:003 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:02:16:003 [main] INFO  Test.LabelTest - Response time is :0
+22:02:16:065 [main] INFO  Test.LabelTest - *********** Reading label **************
+22:02:16:900 [main] INFO  Test.LabelTest - Status code is :200
+22:02:16:900 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:02:16:901 [main] INFO  Test.LabelTest - Response time is :0
+22:02:16:910 [main] INFO  Test.LabelTest - *********** Reading label **************
+22:02:17:272 [main] INFO  Test.LabelTest - Status code is :200
+22:02:17:273 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:02:17:273 [main] INFO  Test.LabelTest - Response time is :0
+22:12:33:238 [main] INFO  Test.LabelTest - *********** Creating Label **************
+22:12:35:008 [main] INFO  Test.LabelTest - Status code is :200
+22:12:35:008 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:12:35:012 [main] INFO  Test.LabelTest - Response time is :0
+22:12:35:013 [main] INFO  Test.LabelTest - Label created
+22:12:35:024 [main] INFO  Test.LabelTest - *********** Reading Label **************
+22:12:35:433 [main] INFO  Test.LabelTest - Status code is :200
+22:12:35:434 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:12:35:434 [main] INFO  Test.LabelTest - Response time is :0
+22:12:35:438 [main] INFO  Test.LabelTest - *********** Reading label **************
+22:12:36:286 [main] INFO  Test.LabelTest - Status code is :200
+22:12:36:286 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:12:36:287 [main] INFO  Test.LabelTest - Response time is :0
+22:12:36:297 [main] INFO  Test.LabelTest - *********** Reading label **************
+22:12:36:695 [main] INFO  Test.LabelTest - Status code is :200
+22:12:36:696 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:12:36:696 [main] INFO  Test.LabelTest - Response time is :0
+22:12:37:165 [main] INFO  Test.LabelTest - *********** Deleting label **************
+22:12:37:772 [main] INFO  Test.LabelTest - Status code is :200
+22:12:37:772 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:12:37:774 [main] INFO  Test.LabelTest - Response time is :0
+22:12:37:774 [main] INFO  Test.LabelTest - Label deleted
+22:54:07:371 [main] INFO  Test.LabelTest - *********** Creating Label **************
+22:54:09:056 [main] INFO  Test.LabelTest - Status code is :200
+22:54:09:056 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+22:54:09:060 [main] INFO  Test.LabelTest - Response time is :0
+22:54:09:060 [main] INFO  Test.LabelTest - Label created
+22:54:09:071 [main] INFO  Test.LabelTest - *********** Reading Label **************
+22:54:09:443 [main] INFO  Test.LabelTest - *********** Reading label **************
+22:54:09:793 [main] INFO  Test.LabelTest - *********** Reading label **************
+22:54:11:065 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:03:46:742 [main] INFO  Test.LabelTest - *********** Reading Label **************
+23:03:48:255 [main] INFO  Test.LabelTest - Status code is :200
+23:03:48:256 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:03:48:258 [main] INFO  Test.LabelTest - Response time is :0
+23:03:48:262 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:03:48:738 [main] INFO  Test.LabelTest - Status code is :200
+23:03:48:739 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:03:48:739 [main] INFO  Test.LabelTest - Response time is :0
+23:03:48:739 [main] INFO  Test.LabelTest - Label deleted
+23:04:07:005 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:04:08:488 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:08:50:661 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:08:52:902 [main] INFO  Test.LabelTest - *********** Reading Label **************
+23:08:53:344 [main] INFO  Test.LabelTest - Status code is :200
+23:08:53:345 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:08:53:347 [main] INFO  Test.LabelTest - Response time is :0
+23:08:53:353 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:27:35:117 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:36:972 [main] INFO  Test.LabelTest - Status code is :200
+23:27:36:973 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:27:36:976 [main] INFO  Test.LabelTest - Response time is :1
+23:27:36:976 [main] INFO  Test.LabelTest - Label created
+23:27:36:990 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:37:923 [main] INFO  Test.LabelTest - *********** Reading Label **************
+23:27:38:367 [main] INFO  Test.LabelTest - Status code is :200
+23:27:38:368 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:27:38:368 [main] INFO  Test.LabelTest - Response time is :0
+23:27:38:374 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:38:831 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:27:39:294 [main] INFO  Test.LabelTest - Status code is :200
+23:27:39:294 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:27:39:295 [main] INFO  Test.LabelTest - Response time is :0
+23:27:39:295 [main] INFO  Test.LabelTest - Label Name verified
+23:27:39:297 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:39:910 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:27:40:262 [main] INFO  Test.LabelTest - Status code is :200
+23:27:40:263 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:27:40:263 [main] INFO  Test.LabelTest - Response time is :0
+23:27:40:263 [main] INFO  Test.LabelTest - color name verified
+23:27:40:266 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:41:842 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:42:674 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:27:43:482 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:30:32:226 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:30:35:018 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:30:47:314 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:30:49:967 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:35:58:662 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:36:01:363 [main] INFO  Test.LabelTest - Status code is :200
+23:36:01:363 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:36:01:366 [main] INFO  Test.LabelTest - Response time is :0
+23:36:01:370 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:36:06:444 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:36:09:151 [main] INFO  Test.LabelTest - Status code is :200
+23:36:09:151 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:36:09:155 [main] INFO  Test.LabelTest - Response time is :0
+23:36:09:159 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:38:17:729 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:19:514 [main] INFO  Test.LabelTest - Status code is :200
+23:38:19:515 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:19:519 [main] INFO  Test.LabelTest - Response time is :0
+23:38:19:519 [main] INFO  Test.LabelTest - Label created
+23:38:19:532 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:20:565 [main] INFO  Test.LabelTest - *********** Reading Label **************
+23:38:21:045 [main] INFO  Test.LabelTest - Status code is :200
+23:38:21:045 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:21:045 [main] INFO  Test.LabelTest - Response time is :0
+23:38:21:050 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:21:478 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:38:21:868 [main] INFO  Test.LabelTest - Status code is :200
+23:38:21:868 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:21:869 [main] INFO  Test.LabelTest - Response time is :0
+23:38:21:869 [main] INFO  Test.LabelTest - Label Name verified
+23:38:21:873 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:24:946 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:38:25:355 [main] INFO  Test.LabelTest - Status code is :200
+23:38:25:355 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:25:356 [main] INFO  Test.LabelTest - Response time is :0
+23:38:25:356 [main] INFO  Test.LabelTest - color name verified
+23:38:25:360 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:26:263 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:27:076 [main] INFO  Test.LabelTest - Status code is :200
+23:38:27:076 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:27:076 [main] INFO  Test.LabelTest - Response time is :0
+23:38:27:084 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:27:998 [main] INFO  Test.LabelTest - Status code is :200
+23:38:27:999 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:27:999 [main] INFO  Test.LabelTest - Response time is :0
+23:38:28:007 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:38:28:428 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:38:28:918 [main] INFO  Test.LabelTest - Status code is :200
+23:38:28:918 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:38:28:919 [main] INFO  Test.LabelTest - Response time is :0
+23:38:28:919 [main] INFO  Test.LabelTest - Label deleted
+23:38:54:245 [main] INFO  Test.BoardTest - *********** Creating board **************
+23:38:56:404 [main] INFO  Test.BoardTest - Status code is :400
+23:38:56:404 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 400 Bad Request
+23:38:56:410 [main] INFO  Test.BoardTest - Response time is :0
+23:38:56:410 [main] INFO  Test.BoardTest - Testcase passed
+23:38:56:433 [main] INFO  Test.BoardTest - *********** Creating board **************
+23:38:56:787 [main] INFO  Test.BoardTest - Status code is :404
+23:38:56:787 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 404 Not Found
+23:38:56:788 [main] INFO  Test.BoardTest - Response time is :0
+23:38:56:788 [main] INFO  Test.BoardTest - Cannot GET /1/bods/HeK6Sj1t?key=eb37bb5662d8efdb40cf6e2e257bb93e&token=ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26
+23:38:56:792 [main] INFO  Test.BoardTest - *********** Creating board **************
+23:38:57:182 [main] INFO  Test.BoardTest - Status code is :401
+23:38:57:183 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 401 Unauthorized
+23:38:57:183 [main] INFO  Test.BoardTest - Response time is :0
+23:38:57:190 [main] INFO  Test.BoardTest - *********** Creating board **************
+23:38:57:834 [main] INFO  Test.BoardTest - Status code is :200
+23:38:57:834 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+23:38:57:835 [main] INFO  Test.BoardTest - Response time is :0
+23:38:57:835 [main] INFO  Test.BoardTest - Board created
+23:38:57:842 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:38:58:323 [main] INFO  Test.BoardTest - Status code is :200
+23:38:58:323 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+23:38:58:324 [main] INFO  Test.BoardTest - Response time is :0
+23:38:58:728 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:38:59:107 [main] INFO  Test.BoardTest - Status code is :200
+23:38:59:107 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+23:38:59:107 [main] INFO  Test.BoardTest - Response time is :0
+23:38:59:107 [main] INFO  Test.BoardTest - Board Name verified
+23:38:59:110 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:38:59:559 [main] INFO  Test.BoardTest - Status code is :200
+23:38:59:559 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+23:38:59:559 [main] INFO  Test.BoardTest - Response time is :0
+23:38:59:559 [main] INFO  Test.BoardTest - Permission Level verified
+23:38:59:561 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:39:01:045 [main] INFO  Test.BoardTest - Status code is :200
+23:39:01:046 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+23:39:01:046 [main] INFO  Test.BoardTest - Response time is :1
+23:39:01:046 [main] INFO  Test.BoardTest - Calender view verified
+23:39:01:049 [main] INFO  Test.BoardTest - *********** Reading board **************
+23:39:01:505 [main] INFO  Test.BoardTest - Status code is :200
+23:39:01:505 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+23:39:01:505 [main] INFO  Test.BoardTest - Response time is :0
+23:39:01:506 [main] INFO  Test.BoardTest - Background color verified
+23:39:01:514 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:01:899 [main] INFO  Test.LabelTest - Status code is :200
+23:39:01:900 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:01:900 [main] INFO  Test.LabelTest - Response time is :0
+23:39:01:901 [main] INFO  Test.LabelTest - Label created
+23:39:01:908 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:02:425 [main] INFO  Test.LabelTest - *********** Reading Label **************
+23:39:02:824 [main] INFO  Test.LabelTest - Status code is :200
+23:39:02:824 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:02:825 [main] INFO  Test.LabelTest - Response time is :0
+23:39:02:829 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:03:341 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:39:03:752 [main] INFO  Test.LabelTest - Status code is :200
+23:39:03:753 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:03:753 [main] INFO  Test.LabelTest - Response time is :0
+23:39:03:754 [main] INFO  Test.LabelTest - Label Name verified
+23:39:03:757 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:04:265 [main] INFO  Test.LabelTest - *********** Reading label **************
+23:39:04:666 [main] INFO  Test.LabelTest - Status code is :200
+23:39:04:666 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:04:666 [main] INFO  Test.LabelTest - Response time is :0
+23:39:04:667 [main] INFO  Test.LabelTest - color name verified
+23:39:04:669 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:05:684 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:06:500 [main] INFO  Test.LabelTest - Status code is :200
+23:39:06:500 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:06:501 [main] INFO  Test.LabelTest - Response time is :0
+23:39:06:509 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:07:320 [main] INFO  Test.LabelTest - Status code is :200
+23:39:07:321 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:07:322 [main] INFO  Test.LabelTest - Response time is :0
+23:39:07:326 [main] INFO  Test.LabelTest - *********** Creating Label **************
+23:39:07:843 [main] INFO  Test.LabelTest - *********** Deleting label **************
+23:39:08:548 [main] INFO  Test.LabelTest - Status code is :200
+23:39:08:548 [main] INFO  Test.LabelTest - Status line is :HTTP/1.1 200 OK
+23:39:08:548 [main] INFO  Test.LabelTest - Response time is :0
+23:39:08:549 [main] INFO  Test.LabelTest - Label deleted
+19:52:57:908 [main] INFO  Test.BoardTest - *********** Creating board **************
+19:52:59:942 [main] INFO  Test.BoardTest - Status code is :200
+19:52:59:942 [main] INFO  Test.BoardTest - Status line is :HTTP/1.1 200 OK
+19:52:59:947 [main] INFO  Test.BoardTest - Response time is :1
+19:52:59:947 [main] INFO  Test.BoardTest - Board created
+19:53:12:466 [main] INFO  Test.BoardTest - *********** Creating board **************

@@ -1,0 +1,25 @@
+<data>
+	<BoardName>Nedbank</BoardName>
+	<key>eb37bb5662d8efdb40cf6e2e257bb93e</key>
+	<token>ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26</token>
+	<LabelAPI>
+		<BoardId>664f609592d68e7564df7649</BoardId>
+		<LabelId>6661f28486be9e15b1526493</LabelId>
+		<Name>Loan</Name>
+		<Color>red</Color>
+	</LabelAPI>
+	<BoardAPI>
+		<Board1>
+			<Id>HeK6Sj1t</Id>
+			<Name></Name>
+		</Board1>
+		<Board2>
+			<Id>HeK6Sj1t</Id>
+			<Name></Name>
+		</Board2>
+		<Board3>
+			<Id>qP7EO6Av</Id>
+			<Name></Name>
+		</Board3>
+	</BoardAPI>
+</data>
