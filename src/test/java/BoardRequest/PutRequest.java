@@ -20,7 +20,7 @@ public class PutRequest {
 				.pathParam("id",BoardID)
 				.contentType("application/json")
 				.queryParam("key", XmlReader.ReadfromXml("//data/key"))
-				.queryParam("token",XmlReader.ReadfromXml("//data/token"))
+				.queryParam("token","ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26")	
 				.body(new String(Files.readAllBytes(Paths.get(payload))))
 		.when()
 			.put(Routes.board_put_url);

@@ -19,7 +19,7 @@ public class PostRequest {
 			.queryParam("color", XmlReader.ReadfromXml("//data/LabelAPI/Color"))
 			.queryParam("idBoard", XmlReader.ReadfromXml("//data/LabelAPI/BoardId"))
 			.queryParam("key", XmlReader.ReadfromXml("//data/key"))
-			.queryParam("token",XmlReader.ReadfromXml("//data/token"))
+			.queryParam("token","ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26")	
 		.when()
 			.post(Routes.label_post_url);
 			
@@ -34,7 +34,7 @@ public class PostRequest {
 				.queryParam("color", XmlReader.ReadfromXml("//data/LabelAPI/Color"))
 				.queryParam("idBoard", XmlReader.ReadfromXml("//data/LabelAPI/BoardId"))
 				.queryParam("key", XmlReader.ReadfromXml("//data/key"))
-				.queryParam("token",XmlReader.ReadfromXml("//data/token"))
+				.queryParam("token","ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26")	
 		.when()
 			.post(Routes.label_post_url);
 			

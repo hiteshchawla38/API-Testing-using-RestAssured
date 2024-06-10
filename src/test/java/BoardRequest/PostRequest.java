@@ -17,7 +17,7 @@ public class PostRequest {
 			.contentType("application/json")
 			.queryParam("name", XmlReader.ReadfromXml("//data/BoardName"))
 			.queryParam("key", XmlReader.ReadfromXml("//data/key"))
-			.queryParam("token",XmlReader.ReadfromXml("//data/token"))
+			.queryParam("token","ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26")	
 		.when()
 			.post(Routes.board_post_url);
 			
@@ -30,7 +30,7 @@ public class PostRequest {
 			.contentType("application/json")
 			.queryParam("name", " ")
 			.queryParam("key", XmlReader.ReadfromXml("//data/key"))
-			.queryParam("token",XmlReader.ReadfromXml("//data/token"))
+			.queryParam("token","ATTA3929f32e7c7ee5208586bd67597a259a4311d529c14c828a87f8176527bd4b3aEFD4AD26")	
 		.when()
 			.post(Routes.board_post_url);
 			
